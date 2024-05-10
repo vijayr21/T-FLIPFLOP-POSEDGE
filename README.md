@@ -51,11 +51,8 @@ PROGRAM
 RTL LOGIC FOR FLIPFLOPS
 ![image](https://github.com/Kirubanithi-123/T-FLIPFLOP-POSEDGE/assets/151388581/dcc244f6-bd6a-4048-aeca-4982ade604d7)
 
-
 TIMING DIGRAMS FOR FLIP FLOPS
 ![image](https://github.com/Kirubanithi-123/T-FLIPFLOP-POSEDGE/assets/151388581/eea2c581-e47f-46a8-8d7e-231468d7ca63)
 
-
 RESULTS
-
 Hence, T flipflop using verilog and validating their functionality using their functional tables is implemented.
